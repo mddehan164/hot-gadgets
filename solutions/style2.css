@@ -1,0 +1,14 @@
+.space-section{
+    margin-top: 10%;
+}
+#cat{
+    padding-bottom: 1%;
+    border-bottom: 7px solid;
+    border-image: linear-gradient(to right,orange, salmon);
+    border-image-slice: 1;
+}
+.col-sec{
+    width: 180px;
+    height: 180px;
+    box-shadow: 5px 5px 10px lightgray;
+}

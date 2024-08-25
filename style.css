@@ -1,0 +1,52 @@
+.nav-link{
+    margin: 5px 15px;
+}
+.col-md-7{
+    background-image: url("images/bg-1.png");
+    background-repeat: no-repeat;
+    background-size: 85px;
+}
+.link-design{
+    text-decoration: none;
+    color: orange;
+}
+.space{
+    margin-bottom: 5%;
+}
+.card{
+    text-align: center;
+    border-radius: 10px !important;
+    border: none !important;
+    box-shadow: 5px 5px 10px lightgray;
+    padding-bottom: 15px;
+}
+.card-footer{
+    border-top: none !important;
+    background-color: white !important;
+}
+.card img{
+    width: 90%;
+    padding-top: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.space-section{
+    margin-top: 10%;
+}
+#cat{
+    padding-bottom: 1%;
+    border-bottom: 7px solid;
+    border-image: linear-gradient(to right,orange, salmon);
+    border-image-slice: 1;
+}
+.col-sec{
+    width: 180px;
+    height: 180px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.margin{
+    margin: 100px 0px;
+}
+footer{
+    text-align: center;
+}
